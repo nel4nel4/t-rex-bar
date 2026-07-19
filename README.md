@@ -4,6 +4,9 @@
 
 ![Gameplay on the Touch Bar](docs/gameplay.gif)
 
+🎬 **[Watch a real video of it running on a MacBook →](https://nel4nel4.github.io/t-rex-bar/docs/demo.mp4)**
+<sub>(plays in your browser; full-quality original on the [releases page](../../releases/latest))</sub>
+
 A Chrome-dino-style endless runner that lives on the Touch Bar OLED strip.
 Jump cacti, duck pterodactyls, lose hearts, chase your hi-score — all in pure
 white-on-black pixel art, rendered natively on the strip above your keyboard.
