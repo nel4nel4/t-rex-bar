@@ -4,7 +4,12 @@
 
 ![Gameplay on the Touch Bar](docs/gameplay.gif)
 
-🎬 **[Watch a real video of it running on a MacBook →](https://nel4nel4.github.io/t-rex-bar/docs/demo.mp4)**
+And this is what it looks like in real life — actual phone footage of the
+Touch Bar, auto-stabilized onto the strip:
+
+![Real Touch Bar footage](docs/real.gif)
+
+🎬 **[Watch the full video →](https://nel4nel4.github.io/t-rex-bar/docs/demo.mp4)**
 <sub>(plays in your browser; full-quality original on the [releases page](../../releases/latest))</sub>
 
 A Chrome-dino-style endless runner that lives on the Touch Bar OLED strip.
