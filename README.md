@@ -45,6 +45,13 @@ star.
 - macOS 13+
 - Xcode Command Line Tools to build (`xcode-select --install`)
 
+> ⚠️ **The game needs a macOS permission.** To steer the dino with the arrow
+> keys while any app is focused, allow T-Rex Bar under **System Settings →
+> Privacy & Security → Accessibility**. Without it the game still works —
+> a small controller window opens and captures the keys instead. The first
+> time you start the game, the app explains this and offers to open System
+> Settings for you.
+
 ## Build & run
 
 ```bash
