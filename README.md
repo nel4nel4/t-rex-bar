@@ -9,6 +9,10 @@ Touch Bar, auto-stabilized onto the strip:
 
 ![Real Touch Bar footage](docs/real.gif)
 
+| Steering with the arrow keys | The game menu in the menu bar |
+| --- | --- |
+| ![Playing with the arrow keys](docs/keys.gif) | ![The dino menu in the menu bar](docs/menu.gif) |
+
 🎬 **[Watch the full video →](https://nel4nel4.github.io/t-rex-bar/docs/demo.mp4)**
 <sub>(plays in your browser; full-quality original on the [releases page](../../releases/latest))</sub>
 
